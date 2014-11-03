@@ -12,6 +12,7 @@ void setup(){
 
 void draw(){
   
-  
+  //I drew a circle - Kate
+  ellipse(50, 50, 50, 50);
   
 }
